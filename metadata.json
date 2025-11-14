@@ -1,0 +1,5 @@
+{
+  "name": "Music Discovery Chat",
+  "description": "A conversational AI chatbot that learns your music taste to provide personalized band and album recommendations. Tell it your favorite bands and get tailored suggestions.",
+  "requestFramePermissions": []
+}
